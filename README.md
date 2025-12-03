@@ -1,1 +1,0 @@
-# LogGuard_Security_Report_Generator
